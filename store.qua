@@ -1,0 +1,6 @@
+main
+    define msg value "Never gonna give you up, never gonna let you down \n"
+    define Bob value "Bob likes to eat, Bob is cool, be a Bob"
+    log msg
+    log Bob
+end
